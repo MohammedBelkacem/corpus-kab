@@ -1,6 +1,4 @@
-# tuddar
-Tuddar, ismawen d imeḍqan
+# Corpora
+This reposotory is designed to collect sentences for NLP projects involving Kabyle language and among them Common Voice and tatoeba
 
-D azegrir i Firefox Mozilla.
-Azegrir-agi yegber ismawen n tuddar n tmurt n yiqbayliyen, tiwlafin akked kra n wawal ɣef tuddar-agi d wanida i d-zgant: 
-Agezdu, Asun akked taɣiwant
+Please send your corpura via a Pull Request
